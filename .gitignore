@@ -1,5 +1,38 @@
-# Object file
-*.o
+# Создано https://www.toptal.com/developers/gitignore/api/c++
+# Редактировать на https://www.toptal.com/developers/gitignore?templates=c++
 
-# Ada Library Information
-*.ali
+### С++ ###
+# Предпосылки
+*.d
+
+# Скомпилированные объектные файлы
+*.slo
+*.lo
+*.о
+*.объект
+
+# Предварительно скомпилированные заголовки
+*.gch
+*.pch
+
+# Скомпилированные динамические библиотеки
+*.так
+*.dylib
+*.dll
+
+# Файлы модуля Fortran
+*.мод
+*.smod
+
+# Скомпилированные статические библиотеки
+*.лай
+*.ля
+*.а
+*.lib
+
+# Исполняемые файлы
+*.исполняемый файл
+*.вне
+*.приложение
+
+# Конец https://www.toptal.com/developers/gitignore/api/c++
